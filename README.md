@@ -7,7 +7,11 @@
 Watch the demo video below to see the tool tracking system in action:
 
 
-[![Watch the video](https://via.placeholder.com/600x400.png?text=Demo+Video)](./demo.mp4)
+https://github.com/user-attachments/assets/3fb13393-5f1f-4f75-a175-012354fa1752
+
+
+
+
 
 
 ## Getting Started
