@@ -1,17 +1,14 @@
 # Tool Tracking Dashboard
 
-This is a **Tool Tracking System** built with [Next.js](https://nextjs.org).
+**Tool Tracking System**.
 
 ## Demo
 
 Watch the demo video below to see the tool tracking system in action:
 
-```html
-<video controls width="600">
-  <source src="/demo.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-```
+
+[![Watch the video](https://via.placeholder.com/600x400.png?text=Demo+Video)](./demo.mp4)
+
 
 ## Getting Started
 
